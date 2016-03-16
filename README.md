@@ -18,3 +18,8 @@ If you want to run with webpack-dev-server simply run this command:
 ```
 > $ npm run dev
 ```
+And go to:
+```
+http://localhost:8082/webpack-dev-server/bundle
+
+```
