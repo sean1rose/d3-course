@@ -3,6 +3,8 @@ import _ from 'lodash';
 
 import './style/style.less';
 
+
+/*
 const svg = d3.select('#app').append('svg')
             .attr('width', 960)
             .attr('height', 800);
@@ -241,4 +243,5 @@ d3.csv('testData.csv', type, (error, data) => {
       .attr('text-anchor', 'end')
       .text(d => d);
 });
+*/
 
